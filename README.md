@@ -17,6 +17,6 @@ Questions:
     - What’s the theoretical max margin the firm could have from that branch?
 13. Given this is the ground truth, what is the price elasticity of Sapota for that branch? (If you increase by Rs.1, how much sales will go up/down and if you decrease price by Rs. 1, how much sales will go up/down)
 
-Answers are availble in the notebook file. (task.ipynb)
+Answers are available in the notebook file. (task.ipynb)
 
-To run the notebook ---> chang the file directory of the dataset present in the task.ipynb file
+To run the notebook ---> change the file directory of the dataset present in the task.ipynb file
